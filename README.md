@@ -1,5 +1,7 @@
 
-#Calculadora hecha con Javascript
+# Calculadora hecha con Javascript
+## Descripcion
+  Es una calculadora que realiza las operaciones basicas como la de: sumar, restar, multiplicar, dividir. y otras operaciones más.
 ## Contiene
   * HTML
   * CSS
